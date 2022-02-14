@@ -1,0 +1,15 @@
+
+Triangle Counting (TC)
+
+Compile:
+
+    make            # Baseline CDP version
+    make all        # All versions
+    make test       # Test compiled versions
+    make test-all   # Compile all versions and test them
+
+Run:
+
+    ./tc.<version>
+    ./tc.<version> -h  # Help
+

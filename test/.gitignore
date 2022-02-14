@@ -1,0 +1,20 @@
+
+# Object files
+*.o
+
+# Executables
+*.cdp
+*.nocdp
+*.aw
+*.ab
+*.ag
+
+# Transformed CUDA files
+*.de.cu
+*.aw.cu
+*.ab.cu
+*.ag.cu
+
+# CSV files with timing data
+*.csv
+
